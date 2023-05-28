@@ -1,0 +1,165 @@
+*{margin: 0;
+box-sizing: border-box;
+}
+.main{
+	width: 100%;
+	background-size: cover;
+}
+nav{
+	width: 90%;
+	
+}
+a{
+	font-size: 35px;
+	display: inline;
+	margin:0;
+	width:60px;	
+	float: left;
+	padding: 20px;
+}
+ul{
+	width:42%;
+	float: right;
+	padding: 20px 10px;
+	color: BLACK;
+
+}
+ul li{
+	float: left;
+	clear: right;
+	width: 100px;
+	height: 40px;
+	border: 0px solid black;
+	display: inline;
+	padding: 0px;
+}
+.backimage{
+	position: relative;
+	width:100%;
+	height: 50px;
+}
+header{
+	width: 100%;
+	height: 70px;
+	border: 1px solid BLACK;
+}
+.banner-inner{
+	position: relative;
+	margin: 130px 10px;
+	width:100%;
+	color: #fff;
+	text-align: center;
+	padding: 30px 20px;
+}
+.search{
+	height: 55px;
+	width: 500px;
+	border-radius: 50px;
+	background-color: white;
+}
+button{
+	height: 55px;
+	width: 50px;
+	border-radius: 50px;
+	background-color: white;
+}.subject-item{
+	border-radius: 10px;
+	margin: 50px 50px;
+	padding: 50px 20px;
+	float: left;
+	clear: right;
+	display: inline;
+	width: 25%;
+	align: center;
+	box-shadow: 2px 2px 2px 2px;
+	border-color: 1px solid black;
+}
+.contact{
+	border-radius: 10px;
+	margin: 50px 50px;
+	padding: 50px 20px;
+	float: left;
+	clear: right;
+	display: inline;
+	width: 90%;
+	align: center;
+	box-shadow: 2px 2px 2px 2px;
+	border-color: 1px solid black;
+	height: 500px;
+}
+.icon{
+	border-radius: 10px;
+	margin: 100px 450px;
+	padding: 50px 20px;
+	float: left;
+	clear: right;
+	display: inline;
+	width: 20%;
+	box-shadow: 2px 2px 2px 2px;
+	border-color: 1px solid black;
+}
+.icon, {
+	font-size: 25px;
+}
+footer{
+	margin: 50px 50px;
+	color: gray;
+}
+h3{
+	display: inline;
+	margin: 0px 250px;
+}
+h4{
+	font-size: 35px;
+}
+.aside{
+	border: 2px solid black;
+	display: inline;
+	width: 20%;
+	line-height: 1.5;
+	font-size: 20px;
+	margin: 5px;
+	float: left;
+	clear: right;
+}
+article{
+	margin: 5px;
+	padding: 20px 20px;
+	width:65%;
+	border: 2px solid black;
+	float: left;
+	display: inline;
+}
+footer{
+	float: left;
+}
+.p11{
+	width:90%;
+	background-color: yellow;
+	padding: 5px;
+}
+.p12{
+	width:90%;
+	background-color: green;
+	padding: 5px;
+}
+
+.highlight{
+	color: #f8f8f2;
+    background-color: #272822;
+	padding: 0px;
+	margin: 0;
+}
+blockquote{
+	padding: 20px 40px;
+    border-left: 2px solid blue;
+    margin: 40px 0;
+    font-weight: 700;
+    background: skyblue;
+}
+table{
+	width: 90%;
+	background: lightblue;
+	color: white;
+	font-size: 30px;
+}
